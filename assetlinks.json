@@ -1,0 +1,17 @@
+[
+  {
+    "relation": [ "delegate_permission/common.get_login_creds" ],
+    "target": {
+      "namespace": "web",
+      "site": "https://RedOwlIT.github.io"
+    }
+  },
+  {
+    "relation": [ "delegate_permission/common.get_login_creds" ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.reserve.android",
+      "sha256_cert_fingerprints": [ "66:03:97:20:C2:7D:EC:58:4F:99:B2:76:D4:CD:04:03:47:37:25:90:94:2F:55:03:36:75:86:DC:30:AB:D8:FA" ]
+    }
+  }
+]
